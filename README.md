@@ -203,6 +203,8 @@ Clock and GPIO configuration is managed via the `.ioc` file in STM32CubeIDE's gr
 
 ## License
 
-This project is provided for educational and demonstration purposes. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for the full text.
+
+You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, provided the original copyright notice and this permission notice are included in all copies or substantial portions of the software.
 
 > STM32 HAL library code in `main.c` is Copyright © 2026 STMicroelectronics, licensed under ST's software license terms.
